@@ -62,13 +62,14 @@
 
 html{
     scroll-behavior: smooth;
+
 }
 body{
     background-color: var(--bs-light);
     margin: 0;
     line-height: 1.5;
     box-sizing: border-box;
-    font-family: roboto, sans-serif;
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 }
 .container,
 .container-fluid,
